@@ -10,7 +10,7 @@ const MainScreenCmp = () => {
   
   return (
     <View style={styles.container}>
-        <Card></Card>
+        <Card />
     </View>
   )
 }
